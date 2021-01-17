@@ -11,7 +11,7 @@ Structure-Detail Network] which is accepted by [ECCV-2020].
 ### Train
 We utilize 8 Nvidia Tesla V100 GPUs for training.
 ```
-python main.py
+TODO
 ```
 
 ### Test
